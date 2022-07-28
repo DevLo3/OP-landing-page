@@ -1,16 +1,25 @@
 body {
     font-family: Roboto,'Open Sans', 'Helvetica Neue', sans-serif;
-    padding: 5px 20px;
+    margin: 0;
+}
+
+.header, .hero-section {
+    background-color: #1F2937;
+    padding: 10px 20px;
 }
 
 .header {
     display: flex;
     justify-content: space-between;
+    color: #f9faf8;
+    font-size: 24px;
 }
 
 ul {
     display: flex;
     list-style-type: none;
+    color: #e5e7eb;
+    font-size: 18px;
 }
 
 li {
