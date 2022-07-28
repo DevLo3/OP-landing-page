@@ -1,5 +1,6 @@
 body {
     font-family: Roboto,'Open Sans', 'Helvetica Neue', sans-serif;
+    color: white;
     margin: 0;
 }
 
@@ -24,4 +25,13 @@ ul {
 
 li {
     margin-right: 16px;
+}
+
+.hero-section {
+    display: flex;
+}
+
+.hero-text {
+    display: flex;
+    flex-direction: column;
 }
