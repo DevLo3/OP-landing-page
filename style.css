@@ -58,4 +58,8 @@ button {
     color: white;
     border-radius: 8px;
     border: 0;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 5px 30px;
+    margin-top: 15px;
 }
