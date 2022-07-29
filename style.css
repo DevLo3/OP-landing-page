@@ -29,6 +29,8 @@ li {
 
 .hero-section {
     display: flex;
+    justify-content: center;
+    gap: 30px;
 }
 
 .hero-text {
@@ -36,6 +38,22 @@ li {
     flex-direction: column;
 }
 
+.hero-text .title {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #f9faf8;
+}
+
+.hero-text .text {
+    font-size: 18px;
+    color: red:
+}
+
 .hero-image {
-        display: flex;
+    display: flex;
+    background-color: grey;
+    align-items: center;
+    justify-content: center;
+    font-size: 8px;
+    padding: 10px;
 }
