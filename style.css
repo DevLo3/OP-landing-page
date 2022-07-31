@@ -6,7 +6,7 @@ body {
 
 .header, .hero-section {
     background-color: #1F2937;
-    padding: 10px 20px;
+    padding: 10px 50px;
     padding-bottom: 80px;
 }
 
@@ -34,12 +34,12 @@ li {
 
 .hero-section {
     display: flex;
-    justify-content: center;
+    justify-content: space-between;
     gap: 30px;
 }
 
 .hero-text {
-    max-width: 450px;
+    flex: 1;
 }
 
 .title {
@@ -60,6 +60,7 @@ li {
     justify-content: center;
     font-size: 18px;
     padding: 10px;
+    flex: 1;
 }
 
 button {
