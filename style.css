@@ -55,6 +55,7 @@ li {
 .hero-image {
     display: flex;
     background-color: grey;
+    color: white;
     align-items: center;
     justify-content: center;
     font-size: 18px;
