@@ -41,13 +41,13 @@ li {
     flex: 1;
 }
 
-.title {
+.htitle {
     font-size: 48px;
     font-weight: bolder;
     color: #f9faf8;
 }
 
-.text {
+.htext {
     font-size: 18px;
     color: #e5e7eb;
 }
@@ -73,3 +73,5 @@ button {
     padding: 5px 30px;
     margin-top: 15px;
 }
+
+
