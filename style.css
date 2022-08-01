@@ -74,4 +74,15 @@ button {
     margin-top: 15px;
 }
 
+.random-header {
+    text-align: center;    
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1f2937;
+    padding-top: 40px;
+}
 
+.info-bits {
+    display: flex;
+    justify-content: center;
+}
