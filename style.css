@@ -87,13 +87,11 @@ button {
     justify-content: space-around;
 }
 
-.bit {
-    display: flex;
-    flex-direction: column;
-}
-
 .img {
     height: 100px;
     width: 100px;
     border: solid #3882f6;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 5px;
 }
