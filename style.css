@@ -73,6 +73,10 @@ button {
     margin-top: 15px;
 }
 
+.random-section {
+    margin: 10px 50px;
+}
+
 .random-header {
     text-align: center;    
     font-size: 36px;
