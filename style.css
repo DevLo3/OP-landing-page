@@ -106,8 +106,7 @@ button {
 }
 
 .quote-section {
-    padding: 10px 50px;
-    padding-bottom: 80px;
+    padding: 80px 50px;
     background-color: #e5e7eb;
     display: flex;
     flex-direction: column;
