@@ -109,12 +109,16 @@ button {
     padding: 10px 50px;
     padding-bottom: 80px;
     background-color: #e5e7eb;
+    display: flex;
+    flex-direction: column;
 }
 
 .quote {
     font-size: 36px;
     font-style: italic;
     font-weight: lighter;
+    justify-content: center;
+    align-items: center;
 }
 
 .author {
