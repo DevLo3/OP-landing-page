@@ -5,7 +5,7 @@ body {
 
 .header, .hero-section {
     background-color: #1F2937;
-    padding: 10px 50px;
+    padding: 10px 120px;
     padding-bottom: 80px;
 }
 
@@ -74,7 +74,7 @@ button {
 }
 
 .random-section {
-    margin: 10px 50px;
+    margin: 10px 120px;
     margin-bottom: 80px;
 }
 
