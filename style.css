@@ -116,10 +116,9 @@ button {
     font-size: 36px;
     font-style: italic;
     font-weight: lighter;
-    justify-content: center;
-    align-items: center;
 }
 
 .author {
     font-weight: bold;
+    align-self: flex-end;
 }
