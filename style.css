@@ -106,10 +106,11 @@ button {
 }
 
 .quote-section {
-    padding: 80px 50px;
+    padding: 80px 200px;
     background-color: #e5e7eb;
     display: flex;
     flex-direction: column;
+    align-items: center;
 }
 
 .quote {
