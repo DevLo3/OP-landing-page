@@ -125,3 +125,7 @@ button {
     font-weight: bold;
     align-self: flex-end;
 }
+
+.call-section {
+    margin: 60px 120px;
+}
