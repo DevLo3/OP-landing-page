@@ -129,3 +129,9 @@ button {
 .call-section {
     margin: 60px 120px;
 }
+
+.call-box {
+    background-color: #3882F6;
+    color: white;
+    padding: 40px 80px;
+}
