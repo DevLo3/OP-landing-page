@@ -141,3 +141,7 @@ button {
 .maintxt {
     font-weight: bolder;
 }
+
+.subtxt {
+    font-weight: lighter;
+}
