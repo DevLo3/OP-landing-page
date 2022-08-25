@@ -149,6 +149,6 @@ button {
 }
 
 .call-button {
-    border: solid #ffff;
+    border: solid 2px #ffff;
     border-radius: 8px;
 }
