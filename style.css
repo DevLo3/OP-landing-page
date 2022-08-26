@@ -124,6 +124,7 @@ button {
 .author {
     font-weight: bold;
     align-self: flex-end;
+    margin-top: 15px;
 }
 
 .call-section {
