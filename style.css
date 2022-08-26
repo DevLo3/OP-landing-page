@@ -151,4 +151,7 @@ button {
 .call-button {
     border: solid 2px #ffff;
     border-radius: 8px;
+    margin: 0;
+    padding: 3px 25px;
+    font-size: 18px;
 }
